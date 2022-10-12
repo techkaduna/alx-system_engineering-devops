@@ -21,3 +21,9 @@ Create a file with a text redirected into it
 
 #8-cwd_state
 Writes the content of ls -la command into a file
+
+#9-duplicate_last_line
+Duplicates the last line of a file
+
+#12-newest-files
+List the files in pwd in order of time
