@@ -27,3 +27,6 @@ Duplicates the last line of a file
 
 #12-newest-files
 List the files in pwd in order of time
+
+#14-findthatword
+Displays the line that contains a particular word
