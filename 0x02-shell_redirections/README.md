@@ -15,3 +15,6 @@ Print the first 10 lines of a file
 
 #6-third_line
 Print the third line of a file
+
+#7-file
+Create a file with a text redirected into it
