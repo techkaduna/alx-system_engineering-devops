@@ -30,3 +30,6 @@ List the files in pwd in order of time
 
 #14-findthatword
 Displays the line that contains a particular word
+
+#15-countthatword
+Display the number of times a word appears
