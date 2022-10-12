@@ -18,3 +18,6 @@ Print the third line of a file
 
 #7-file
 Create a file with a text redirected into it
+
+#8-cwd_state
+Writes the content of ls -la command into a file
