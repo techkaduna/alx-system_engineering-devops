@@ -18,3 +18,6 @@ Script that creates a global variable
 
 #8-true_knowledge
 Script that add an integer to a global variable
+
+#9-divide_and_rule
+Print the division of two environmental variables
