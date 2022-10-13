@@ -9,3 +9,6 @@ Script that prints the environmental variables in a shell
 
 #5-local_variables
 Script that prints the list of local variables
+
+#6-create_local_variable
+Script that creates a local variable
