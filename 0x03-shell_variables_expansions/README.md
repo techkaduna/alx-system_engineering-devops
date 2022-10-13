@@ -27,3 +27,6 @@ Prints the result of an environmental variable to the power of another environme
 
 #11-binary_to_decimal
 Converts an envrionmental variable to decimal
+
+#13-print_float
+Print float withtwo decimal places
