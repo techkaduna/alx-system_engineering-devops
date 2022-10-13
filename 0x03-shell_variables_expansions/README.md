@@ -15,3 +15,6 @@ Script that creates a local variable
 
 #7-create_global_variable
 Script that creates a global variable
+
+#8-true_knowledge
+Script that add an integer to a global variable
