@@ -12,3 +12,6 @@ Script that prints the list of local variables
 
 #6-create_local_variable
 Script that creates a local variable
+
+#7-create_global_variable
+Script that creates a global variable
