@@ -24,3 +24,6 @@ Print the division of two environmental variables
 
 #10-love_exponent_breath
 Prints the result of an environmental variable to the power of another environmental variable
+
+#11-binary_to_decimal
+Converts an envrionmental variable to decimal
