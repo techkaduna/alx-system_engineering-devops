@@ -30,3 +30,6 @@ Converts an envrionmental variable to decimal
 
 #13-print_float
 Print float withtwo decimal places
+
+#12-combinations
+Script that prints all possible combinations of two letters
