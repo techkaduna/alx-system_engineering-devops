@@ -21,3 +21,6 @@ Script that add an integer to a global variable
 
 #9-divide_and_rule
 Print the division of two environmental variables
+
+#10-love_exponent_breath
+Prints the result of an environmental variable to the power of another environmental variable
