@@ -33,3 +33,6 @@ Print float withtwo decimal places
 
 #12-combinations
 Script that prints all possible combinations of two letters
+
+#3-paths
+Script that counts the number of directories in PATH
