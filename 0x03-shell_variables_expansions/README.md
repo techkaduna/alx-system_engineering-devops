@@ -39,3 +39,6 @@ Script that counts the number of directories in PATH
 
 #100-decimal_to_hexadecimal
 Script that converts from base 10 to base 16
+
+#102-odd
+A  script that prints every other line from the input, starting with the first line
