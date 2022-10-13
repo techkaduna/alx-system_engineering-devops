@@ -36,3 +36,6 @@ Script that prints all possible combinations of two letters
 
 #3-paths
 Script that counts the number of directories in PATH
+
+#100-decimal_to_hexadecimal
+Script that converts from base 10 to base 16
